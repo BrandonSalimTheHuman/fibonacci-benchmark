@@ -28,3 +28,9 @@ Iterative:
 Recursive:
 
 ![image](https://user-images.githubusercontent.com/114371928/205098533-3cc14359-2f56-411a-b581-2da3b2a216f2.png)
+
+Conclusion:
+
+Based on the results I've gotten from the benchmark tests, the recursive code takes astronomically (> 200,000%) longer than the iterative code.
+
+Moreover, both codes take similar amounts of storage.
